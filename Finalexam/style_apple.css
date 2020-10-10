@@ -1,0 +1,77 @@
+body{
+	margin: 0;
+}
+.class1_span p{
+	margin-left: 50px;
+	color: white;
+	cursor: pointer;
+	margin-top: 20px;
+}
+.class1_span p:hover{
+	color: yellow;
+}
+#div5{
+	margin-top: 440px;
+	/**margin-left:500px;**/
+	cursor: pointer;
+}
+#div2 a {
+	color: white;
+	text-align: center;
+	margin-left: 450px;
+}
+a{
+	cursor: pointer;
+}
+a:hover{
+	text-decoration: underline;
+}
+#div2{
+	font-size: 20px;
+	background: blue;
+	height: 40px;
+}
+#div3 a {
+margin-left: 390px;
+}
+#img1{
+	cursor: pointer;
+}
+#div4{
+	margin-top: -40%;
+	color: white;
+	margin-left: 480px;
+}
+.img_one{
+	margin-top: 2px;
+}
+#div6{
+	cursor: pointer;
+}
+#div10 p {
+	cursor: pointer;
+}
+#div10 p:hover{
+	text-decoration: underline;
+}
+#div8,#div9,#div10,#div7,#div11,#div12{
+cursor: pointer;
+height: 650px;
+width: 650px;
+background: whitesmoke;
+margin:10px;
+}
+.learn :hover{
+text-decoration: underline;
+}
+
+#colomns_de_footer p {
+cursor: pointer;
+font-size: 15px;
+color: gray;
+font-family: inherit;
+
+}
+ #colomns_de_footer p :hover {
+	 text-decoration: underline;
+}
